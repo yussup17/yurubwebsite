@@ -1,0 +1,26 @@
+.page-header{
+   background-image: url("assets/images/1462800.jpg");
+    background-size:cover;
+    background-position: center;
+    position: relative;
+}
+.bgcolor{
+    background-image: url("assets/images/bg2.jpg");
+}
+.navbar{
+    background-color: white;
+}
+.nav-link{
+    margin-right: 1em; !important;
+}
+.navbar-collapse{
+    justify-content: flex-end;
+}
+.intro{
+    left: 50%;
+    position: absolute;
+    top: 45%;
+    transform: translate(-50%, -55%);
+    text-align: start;
+    color: black;
+}
